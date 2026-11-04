@@ -212,9 +212,4 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop. If Power BI request
 
 ## Author
 
-**Your Name**  
-Add your GitHub profile link here: `https://github.com/your-username`
-
----
-
-If you find this project useful, feel free to star the repository.
+**Solomon Isaac**  
